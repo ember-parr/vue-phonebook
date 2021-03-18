@@ -6,7 +6,7 @@
       </div>
     </v-app-bar>
 
-    <v-main class="mt-5">
+    <v-main class="mt-5 mx-10">
       <phonebook />
     </v-main>
   </v-app>
