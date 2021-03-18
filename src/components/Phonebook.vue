@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Phonebook stuff goes here</h1>
     <v-row>
       <v-col :lg="8" :sm="12">
         <contacts-table :contacts="contacts" />

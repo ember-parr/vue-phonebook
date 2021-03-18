@@ -1,8 +1,8 @@
 <template>
   <v-app>
-    <v-app-bar app color="teal" dark>
+    <v-app-bar app color="blue-grey" dark>
       <div class="d-flex align-center">
-        <h3>Ember's Phonebook</h3>
+        <h3>Ember's Phonebook App</h3>
       </div>
     </v-app-bar>
 

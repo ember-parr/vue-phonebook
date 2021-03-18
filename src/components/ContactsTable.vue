@@ -1,6 +1,6 @@
 <template>
   <div class="mb-5">
-    <h3 class="teal--text">Contacts</h3>
+    <h3 class="blue-grey--text">Contacts</h3>
     <v-simple-table>
       <template v-slot:default>
         <thead>

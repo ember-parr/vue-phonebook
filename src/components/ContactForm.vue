@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3 class="teal--text">New Contact</h3>
+    <h3 class="blue-grey--text">New Contact</h3>
     <v-form @submit.prevent="handleSave" ref="contactForm">
       <v-text-field
         outlined
@@ -27,7 +27,7 @@
         v-model="form.email"
         :rules="validators.email"
       />
-      <v-btn type="submit" color="teal" dark>Save</v-btn>
+      <v-btn type="submit" color="blue-grey lighten-3" dark>Save</v-btn>
     </v-form>
   </div>
 </template>
